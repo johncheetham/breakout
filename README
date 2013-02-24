@@ -1,0 +1,17 @@
+Breakout 0.1
+John Cheetham June 2009
+
+Project Homepage : http://www.johncheetham.com/projects/breakout
+email : developer@johncheetham.com
+
+Description
+-----------
+Breakout game written in Python/pygame. It is licensed under the GPL.
+See the file named LICENSE.
+
+To run it change into the breakout directory and enter 'python breakout.py'.
+
+Controls:
+    Left Arrow  - move bat left
+    Right Arrow - move bat right
+    Escape      - quit game
